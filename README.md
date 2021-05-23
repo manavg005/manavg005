@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Manav Gupta
 - 👀 I’m interested in Frontend.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through Linkedin and twitter
 
 <!---
