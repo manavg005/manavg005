@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **manav_guptaa@outlook.com**
 
-- 📄 Know about my experiences [https://flowcv.me/manavgupta](https://flowcv.me/manavgupta)
+- 📄 Know about my experiences [https://flowcv.me/manavgupta](https://manavgupta.xyz/)
 
 - ⚡ Fun fact **I think I am subtle**
 
