@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **manav_guptaa@outlook.com**
 
-- 📄 Know about my experiences [https://manavgupta.xyz/](https://manavgupta.xyz/)
-
 - ⚡ Fun fact **I think I am subtle**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavg005&label=Profile%20views&color=0e75b6&style=flat" alt="manavg005" /> </p>
