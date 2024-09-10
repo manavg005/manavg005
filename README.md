@@ -9,22 +9,22 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Manav Gupta</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A dedicated developer constantly exploring new technologies from India 🇮🇳</h3>
+
 
 <p align="center">
-  <em>Currently working as a Flutter Developer while learning Web Development!</em>
+  <em>Currently working as a Flutter Developer while learning Backend Development!</em>
 </p>
 
 <br />
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manavg005&show_icons=true&locale=en" alt="manavg005" /></p>
 
-- 🔭 I’m currently working on **Web Development projects** and **Flutter applications**
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
+- 🔭 I’m currently working on **Flutter applications** and **Web Development projects** 
+- 🌱 I’m currently learning **JavaScript and Node**
 - 💬 Ask me about **Flutter, Frontend Development, or anything tech-related – I’m happy to help**
 - 📫 Reach me at **manav_guptaa@outlook.com**
 - ⚡ Fun fact: **I think I'm subtle but always leave a mark**
-<!--- 🧑‍💻 Check out my portfolio at [**Portfolio Link**](https://your-portfolio-link.com)--->
 - 🌍 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/manavg005/) or follow me on [**Twitter**](https://twitter.com/manavg005)
 
 <p align="left"> 
