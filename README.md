@@ -1,60 +1,113 @@
-<!---
-- 👋 Hi, I’m Manav Gupta
-- 👀 I’m interested in Frontend.
-- 🌱 I’m currently learning Web Development
-- 📫 You can reach me through LinkedIn and Twitter
-
-manavg005/manavg005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Manav Gupta</h1>
-<h3 align="center">A dedicated developer constantly exploring new technologies from India 🇮🇳</h3>
-
+<h3 align="center">Software Engineer specializing in Flutter & Mobile Architecture 🇮🇳</h3>
 
 <p align="center">
-  <em>Currently working as a Flutter Developer while learning Backend Development!</em>
+  <em>Building scalable mobile solutions at Grarri | Architecting dual-sided marketplace platforms</em>
+</p>
+
+<p align="center">
+  <a href="https://manavgupta.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-manavgupta.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/manavg005/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-manavg005-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/manavg005" target="_blank"><img src="https://img.shields.io/badge/Twitter-manavg005-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 <br />
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manavg005&show_icons=true&locale=en" alt="manavg005" /></p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Flutter applications** and **Web Development projects** 
-- 🌱 I’m currently learning **JavaScript and Node**
-- 💬 Ask me about **Flutter, Frontend Development, or anything tech-related – I’m happy to help**
+- 🔭 Currently working as **Software Developer at Grarri Pvt Ltd**, architecting PropTech solutions
+- 📱 Passionate about **Flutter**, **BLoC Architecture**, and building cross-platform mobile experiences
+- 🌱 Learning **Backend Development** with Node.js to become a full-stack developer
+- ✍️ I write technical blogs on [Medium](https://medium.com/@manavg005) about Flutter development
 - 📫 Reach me at **manav_guptaa@outlook.com**
-- ⚡ Fun fact: **I think I'm subtle but always leave a mark**
-- 🌍 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/manavg005/) or follow me on [**Twitter**](https://twitter.com/manavg005)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=manavg005&label=Profile%20views&color=0e75b6&style=flat" alt="manavg005" />
+<br />
+
+## 💼 What I'm Working On
+
+```dart
+class CurrentFocus {
+  final role = "Software Developer @ Grarri";
+  final domain = "PropTech";
+  final stack = ["Flutter", "Dart", "BLoC", "Firebase"];
+  
+  List<String> achievements = [
+    "Architected B2B & B2C platforms with 95% code reusability",
+    "Built Journey system with intelligent property discovery",
+    "Reduced builder onboarding complexity by 70%",
+    "Serving 500+ properties through mobile applications"
+  ];
+}
+```
+
+<br />
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/>
-  </a>
+**Mobile Development:** Flutter, BLoC, Provider, Hive, SQLite, ObjectBox  
+**Third Party:** Firebase, Twilio, Jitsi Meet, Intercom, Google Maps SDK  
+**Tools:** VS Code, Android Studio, Xcode, Postman, SonarQube  
+**Cloud:** AWS, Azure, Firebase
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manavg005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavg005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br />
+
+## 🏆 Featured Projects
+
+### SimpSocial GoCRM
+AI-powered cross-platform CRM for automotive dealerships with real-time lead management and bilingual conversational AI.  
+**Tech:** Flutter, Firebase, Twilio, JitsiMeet
+
+### BuySft PropTech Platform
+Dual-sided marketplace with intelligent property discovery, journey tracking, and builder CRM serving 500+ properties.  
+**Tech:** Flutter, BLoC, REST APIs
+
+<br />
+
+## 📈 Experience Timeline
+
+| Period | Role | Company |
+|--------|------|---------|
+| Nov 2024 - Present | Software Developer | Grarri Pvt Ltd |
+| Jun 2023 - Oct 2024 | Software Developer | Appventurez Mobitech |
+| Dec 2022 - Jun 2023 | Software Developer Intern | JaKeGA, JKIT |
+| Apr 2021 - Dec 2021 | Software Developer Intern | Devsnest |
+
+<br />
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manavg005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <b>⚡ Fun fact:</b> I think I'm subtle but always leave a mark
+</p>
+
+<p align="center">
+  <a href="https://manavgupta.dev">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/manavg005/">💼 LinkedIn</a> •
+  <a href="https://twitter.com/manavg005">🐦 Twitter</a> •
+  <a href="mailto:manav_guptaa@outlook.com">📧 Email</a>
 </p>
