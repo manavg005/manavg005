@@ -18,7 +18,7 @@
 - 🔭 Currently working as **Software Developer at Grarri Pvt Ltd**, architecting PropTech solutions
 - 📱 Passionate about **Flutter**, **BLoC Architecture**, and building cross-platform mobile experiences
 - 🌱 Learning **Backend Development** with Node.js to become a full-stack developer
-- ✍️ I write technical blogs on [Medium](https://medium.com/@manavg005) about Flutter development
+- ✍️ I write technical blogs on [Medium](https://medium.com/@manavguptamg1990) about Flutter development
 - 📫 Reach me at **manav_guptaa@outlook.com**
 
 <br />
